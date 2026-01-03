@@ -29,5 +29,8 @@ I bridge the gap between complex mathematical theory and scalable software engin
 
 ---
 
-### 📊 GitHub Stats
-![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanKn97&show_icons=true&theme=radical)
+### 📊 GitHub Activity
+*(Note: Most of my active development occurs in private repositories for proprietary financial tools.)*
+
+![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanKn97&show_icons=true&theme=radical&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanKn97&layout=compact&theme=radical)
